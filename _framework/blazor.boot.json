@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MyLearnings",
   "resources": {
-    "hash": "sha256-/ypCV7npR6It5/Fhc8jKDo2Srp5y1b7jSs2aNJofEio=",
+    "hash": "sha256-HG3Hnu2gOXNKZdtYGRZNRf25DxmDblDGD7Rv9wXX/c4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -65,7 +65,7 @@
       "System.Threading.wasm": "sha256-8aeR316HxSzy5pho/D89Z6dAB6kjJvn7nC2sBEQrHb0=",
       "System.wasm": "sha256-n/f5afy4u9cEBgTcizWUZ+dkLRFdsZkcUvyhNiEyiq8=",
       "System.Private.CoreLib.wasm": "sha256-zQtKBnGQ+MvacqTtAGlaI+M4StKDdS48uOumJZOCnDM=",
-      "MyLearnings.wasm": "sha256-JVvPE6fqvfZCMW8tq7eQnk8eX1IiveocKTSeT9pHD94="
+      "MyLearnings.wasm": "sha256-/rmxZs8iHBteK6HC4eShsN6Fg/+1TEEOn5PNDXosx8s="
     }
   },
   "cacheBootResources": true,
