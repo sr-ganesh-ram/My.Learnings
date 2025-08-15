@@ -3,23 +3,23 @@
     "Parent": {
       "Title": "Aws",
       "Icon": "material-symbols-outlined/cloud",
-      "Url": "/aws",
+      "Url": "aws",
       "Children": [
         {
           "Title": "Analytics",
           "Icon": "material-symbols-outlined/analytics",
-          "Url": "/aws/analytics",
+          "Url": "aws/analytics",
           "Children": [
             {
               "Title": "Athena",
               "Icon": "material-symbols-outlined/trail_length_medium",
-              "Url": "/aws/analytics/athena",
+              "Url": "aws/analytics/athena",
               "Children": []
             },
             {
               "Title": "Kinesis",
               "Icon": "material-symbols-outlined/trail_length_medium",
-              "Url": "/aws/analytics/kinesis",
+              "Url": "aws/analytics/kinesis",
               "Children": []
             }
           ]
@@ -27,12 +27,12 @@
         {
           "Title": "App Integration",
           "Icon": "material-symbols-outlined/integration_instructions",
-          "Url": "/aws/app-integration",
+          "Url": "aws/app-integration",
           "Children": [
             {
               "Title": "Sqs",
               "Icon": "material-symbols-outlined/trail_length_medium",
-              "Url": "/aws/app-integration/sqs",
+              "Url": "aws/app-integration/sqs",
               "Children": []
             }
           ]
@@ -40,12 +40,12 @@
         {
           "Title": "Security",
           "Icon": "material-symbols-outlined/security",
-          "Url": "/aws/security",
+          "Url": "aws/security",
           "Children": [
             {
               "Title": "Iam Role Anywhere",
               "Icon": "material-symbols-outlined/trail_length_medium",
-              "Url": "/aws/security/iam role anywhere",
+              "Url": "aws/security/iam role anywhere",
               "Children": []
             }
           ]

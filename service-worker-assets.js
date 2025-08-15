@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "NYsBtfPt",
+  "version": "vEpDxJbK",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -98,7 +98,7 @@ self.assetsManifest = {
       "url": "_framework/MudBlazor.wasm"
     },
     {
-      "hash": "sha256-PG1Cr/VhvdEXgkHeJryAfxrPL62QZUPFGik5Wt1FVTE=",
+      "hash": "sha256-ovdJkL2iZG57n4FoN8ug7Pvs8z5xc6M4YGiLUHigDhs=",
       "url": "_framework/MyLearnings.wasm"
     },
     {
@@ -210,7 +210,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-qWXIRtCDzt5rwnb6aBjMOMyTx2fvvwuC/jnHXVc4yyg=",
+      "hash": "sha256-r4OPCtbTddwdoR/+VOCnVVYqoZOp9qfzSGSyudz8exM=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -334,7 +334,7 @@ self.assetsManifest = {
       "url": "_icon/Arch_Analytics/64/Arch_Amazon-Redshift_64.svg"
     },
     {
-      "hash": "sha256-D4xS7zP4zqq6LTh11+sI9FYPem84yFcqxuCiboJY4hU=",
+      "hash": "sha256-ohG+TTWDlcGHsqnkMtbiqXg5b8iyPXO3eBaXgdJNdcY=",
       "url": "appsettings.json"
     },
     {
@@ -422,7 +422,7 @@ self.assetsManifest = {
       "url": "md/aws/app-integration/SQS.md"
     },
     {
-      "hash": "sha256-aQBgrg3tjfVPviAAj6wqBKz+vz0amcriTuJWl9ITfDY=",
+      "hash": "sha256-oPllSJUrlAw0o+c5tl1kGxUo9OL0HLAvZjAwkiHQesM=",
       "url": "md/menu.json"
     },
     {
