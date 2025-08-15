@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "jDQXwUVC",
+  "version": "NYsBtfPt",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -390,7 +390,7 @@ self.assetsManifest = {
       "url": "js/device-detect.js"
     },
     {
-      "hash": "sha256-aQBgrg3tjfVPviAAj6wqBKz+vz0amcriTuJWl9ITfDY=",
+      "hash": "sha256-oPllSJUrlAw0o+c5tl1kGxUo9OL0HLAvZjAwkiHQesM=",
       "url": "json/menu.json"
     },
     {
