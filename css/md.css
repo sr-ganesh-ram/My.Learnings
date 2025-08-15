@@ -1,0 +1,164 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* MudBlazor Dark Theme Inspired Palette */
+:root {
+    --mud-palette-background: #121212;
+    --mud-palette-surface: #1e1e1e;
+    --mud-palette-primary: #5998f4;
+    --mud-palette-secondary: #00bcd4;
+    --mud-palette-text-primary: #ffffff;
+    --mud-palette-text-secondary: #b3b3b3;
+    --mud-palette-divider: rgba(255, 255, 255, 0.12);
+}
+
+/* Base Styles & Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #2a2a2a;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #4a4a4a;
+    border-radius: 4px;
+}
+
+/* Main Container - Emulating a MudBlazor Card with elevation */
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 24px 32px;
+    background-color: var(--mud-palette-surface);
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); /* Elevation effect */
+}
+
+/* Headings - Using MudBlazor's typography hierarchy */
+h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: var(--mud-palette-primary);
+    text-shadow: 0 0 8px rgba(89, 152, 244, 0.3);
+    margin: 0.5em 0 0.8em;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: var(--mud-palette-text-primary);
+    border-bottom: 1px solid var(--mud-palette-divider);
+    padding-bottom: 0.5rem;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+h4 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: var(--mud-palette-text-primary);
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+}
+
+/* Image */
+img {
+    margin: 24px auto;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+    transition: transform 0.3s ease-in-out;
+}
+
+    img:hover {
+        transform: translateY(-4px); /* Subtle lift on hover */
+    }
+
+/* Horizontal Rule */
+hr {
+    border: none;
+    height: 1px;
+    background-color: var(--mud-palette-divider);
+    margin: 2em 0;
+}
+
+/* Lists */
+ul, ol {
+    margin-bottom: 1.5em;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 0.75em;
+}
+
+ul li {
+    position: relative;
+    padding-left: 25px;
+}
+
+ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    color: var(--mud-palette-primary);
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+/* Code Blocks & Inline Code */
+pre {
+    /*background-color: #9E9E9E;*/
+    color: var(--mud-palette-text-secondary);
+    padding: 16px;
+    text-align: left;
+    border-radius: 6px;
+    overflow-x: auto;
+    font-size: 0.9rem;
+    border: 1px solid #9E9E9E;
+}
+pre.mermaid {
+    /*background-color: #9E9E9E;*/
+    color: var(--mud-palette-text-secondary);
+    padding: 16px;
+    text-align: center;
+    border-radius: 6px;
+    overflow-x: auto;
+    font-size: 0.9rem;
+    border: 1px solid #9E9E9E;
+}
+
+code {
+    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+    background-color: #333;
+    color: #90caf9;
+    padding: 0.2em 0.5em;
+    margin: 0 2px;
+    font-size: 85%;
+    border-radius: 4px;
+}
+
+/* Emojis */
+p .emoji, li .emoji, h3 .emoji {
+    font-size: 1.2em;
+    vertical-align: middle;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    body {
+        padding: 16px;
+    }
+
+    .container {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h3 {
+        font-size: 1.3rem;
+    }
+}

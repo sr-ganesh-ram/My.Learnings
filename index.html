@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MyLearnings</title>
+    <base href="/" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DC71JEKB5R"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-DC71JEKB5R');
+    </script>
+    <script type="text/javascript">
+        function SetBaseScript() {
+            console.log(window.location.hostname);
+            if (window.location.hostname == "localhost") {
+                console.log("Local Host True");
+                document.write("<base href='/' />");
+            } else {
+                document.write("<base href='/My.Learnings/' />");
+            }
+        }
+        SetBaseScript();
+    </script>
+
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
+
+    <link rel="stylesheet" href="css/md.css" />
+
+
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="MyLearnings.styles.css" rel="stylesheet" />
+    <link href="manifest.webmanifest" rel="manifest" />
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+
+    <!--<link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">-->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+    <!-- Important: Increment the version parameter whenever you update MudBlazor to prevent caching issues -->
+    <link href="_content/MudBlazor/MudBlazor.min.css?v=1" rel="stylesheet" />
+
+    <!-- Mermaid.js library and initialization script -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js" defer></script>
+
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script>navigator.serviceWorker.register('service-worker.js');</script>
+
+    <!-- Important: Increment the version parameter whenever you update MudBlazor to prevent caching issues -->
+    <script src="_content/MudBlazor/MudBlazor.min.js?v=1"></script>
+
+</body>
+
+<!-- Reference your JavaScript file from the Razor Class Library here -->
+<script src="js/device-detect.js" type="text/javascript" defer />
+<script>
+    // Use a flag to ensure initialization only happens once
+    let mermaidInitialized = false;
+
+    // Function to initialize Mermaid
+    // This should be called before you try to render any diagram.
+    window.setupMermaid = function () {
+        try {
+            if (!mermaidInitialized) {
+                mermaid.initialize({
+                    startOnLoad: false,
+                    theme: 'dark'
+                });
+                mermaidInitialized = true;
+                console.log("Mermaid library has been initialized.");
+            }
+        }
+        catch { }
+    };
+
+    // Function to render the diagrams
+    // This is the function your Blazor app should call.
+    window.renderMermaid = function () {
+        try {
+            // First, make sure the library is initialized.
+            window.setupMermaid();
+            // Then, manually run the mermaid renderer on all matching elements.
+            mermaid.run();
+            console.log("Mermaid diagrams have been rendered.");
+        }
+        catch { }
+    };
+
+    // Initialize the library as soon as the script loads,
+    // so it's ready for your Blazor function call.
+    window.setupMermaid();
+</script>
+
+<script src="js/app.js" defer />
+
+<!-- Your existing JavaScript -->
+<script>
+
+
+    window.renderMermaid = function () {
+        try {
+            // Your existing Mermaid code
+            if (window.mermaid) {
+                mermaid.init();
+            }
+        }
+        catch {}
+    };
+</script>
+
+
+</html>
