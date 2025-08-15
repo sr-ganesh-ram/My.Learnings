@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "AWExWjUA",
+  "version": "W1q+iXEs",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -98,7 +98,7 @@ self.assetsManifest = {
       "url": "_framework/MudBlazor.wasm"
     },
     {
-      "hash": "sha256-/rmxZs8iHBteK6HC4eShsN6Fg/+1TEEOn5PNDXosx8s=",
+      "hash": "sha256-uPBCdtgsfDSoc4JAqBU0pP2BfPykUbnBaiCLI6SqyIM=",
       "url": "_framework/MyLearnings.wasm"
     },
     {
@@ -170,7 +170,7 @@ self.assetsManifest = {
       "url": "_framework/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-zQtKBnGQ+MvacqTtAGlaI+M4StKDdS48uOumJZOCnDM=",
+      "hash": "sha256-wdjL6iLGpgJ8C1GFk/uWtJ8GHZb9Jc0CFPxUPquimQY=",
       "url": "_framework/System.Private.CoreLib.wasm"
     },
     {
@@ -186,7 +186,7 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.wasm"
     },
     {
-      "hash": "sha256-2DtKhXHJz4E+KXqxzr65i0gIThhg9UQbPFEDSCPCeM4=",
+      "hash": "sha256-ExUIB2yYe839yPo6w5QPxWXH3iVjEZrSrBRc+c74mjE=",
       "url": "_framework/System.Runtime.wasm"
     },
     {
@@ -210,7 +210,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-C5jPjgWSZ8yFcyGmyscWdZq1glraHIiKd+4rgAib+kk=",
+      "hash": "sha256-pCTx4hoMzHpm03nRGPnTW1mmAm551kvgok1v7eY3In4=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -334,7 +334,7 @@ self.assetsManifest = {
       "url": "_icon/Arch_Analytics/64/Arch_Amazon-Redshift_64.svg"
     },
     {
-      "hash": "sha256-QECp+b1YBsBYGilmKOLowva0OQH1S99xVjTVx6JYyA4=",
+      "hash": "sha256-GB2crPyDHe4hMZYRZG9wiH0IY2gchHp2+Mf0SlBDBd8=",
       "url": "appsettings.json"
     },
     {

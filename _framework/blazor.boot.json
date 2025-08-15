@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MyLearnings",
   "resources": {
-    "hash": "sha256-HG3Hnu2gOXNKZdtYGRZNRf25DxmDblDGD7Rv9wXX/c4=",
+    "hash": "sha256-xrYSeUTenfClpuNIdNDIWaqE4o3+YJEQUQs+B6sbfb4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -60,12 +60,12 @@
       "System.Private.Uri.wasm": "sha256-O5Dq3xHdukPETYBYud8IxDQZ7udT4cYnqzYcqGgPe8E=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-YdYasJwRN+2MwcCdionXc6dnOjGpcCwBC9zjnoHQpCo=",
       "System.Runtime.InteropServices.wasm": "sha256-nMJcjKoIN1B9JuqC5LFabfZeu9GJEMP1nqwXzYm7B7M=",
-      "System.Runtime.wasm": "sha256-2DtKhXHJz4E+KXqxzr65i0gIThhg9UQbPFEDSCPCeM4=",
+      "System.Runtime.wasm": "sha256-ExUIB2yYe839yPo6w5QPxWXH3iVjEZrSrBRc+c74mjE=",
       "System.Text.RegularExpressions.wasm": "sha256-0fNhXXNaTS2Usrx6/seORQZx9zi80EAokBtwrq6fNvY=",
       "System.Threading.wasm": "sha256-8aeR316HxSzy5pho/D89Z6dAB6kjJvn7nC2sBEQrHb0=",
       "System.wasm": "sha256-n/f5afy4u9cEBgTcizWUZ+dkLRFdsZkcUvyhNiEyiq8=",
-      "System.Private.CoreLib.wasm": "sha256-zQtKBnGQ+MvacqTtAGlaI+M4StKDdS48uOumJZOCnDM=",
-      "MyLearnings.wasm": "sha256-/rmxZs8iHBteK6HC4eShsN6Fg/+1TEEOn5PNDXosx8s="
+      "System.Private.CoreLib.wasm": "sha256-wdjL6iLGpgJ8C1GFk/uWtJ8GHZb9Jc0CFPxUPquimQY=",
+      "MyLearnings.wasm": "sha256-uPBCdtgsfDSoc4JAqBU0pP2BfPykUbnBaiCLI6SqyIM="
     }
   },
   "cacheBootResources": true,
