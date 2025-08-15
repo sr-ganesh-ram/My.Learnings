@@ -45,7 +45,7 @@
             {
               "Title": "Iam Role Anywhere",
               "Icon": "material-symbols-outlined/trail_length_medium",
-              "Url": "aws/security/iam role anywhere",
+              "Url": "aws/security/iam-role-anywhere",
               "Children": []
             }
           ]

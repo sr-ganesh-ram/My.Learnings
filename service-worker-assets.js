@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "vEpDxJbK",
+  "version": "1j5oODSc",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -98,7 +98,7 @@ self.assetsManifest = {
       "url": "_framework/MudBlazor.wasm"
     },
     {
-      "hash": "sha256-ovdJkL2iZG57n4FoN8ug7Pvs8z5xc6M4YGiLUHigDhs=",
+      "hash": "sha256-JVvPE6fqvfZCMW8tq7eQnk8eX1IiveocKTSeT9pHD94=",
       "url": "_framework/MyLearnings.wasm"
     },
     {
@@ -210,7 +210,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-r4OPCtbTddwdoR/+VOCnVVYqoZOp9qfzSGSyudz8exM=",
+      "hash": "sha256-Qc+L4R4WLS1beIu5UR7KndAp2664BbA1rJvsbGa+H4Q=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -354,15 +354,15 @@ self.assetsManifest = {
       "url": "css/md.css"
     },
     {
-      "hash": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "hash": "sha256-aIjfc1CMcLdWya01r8SEf9NcMrMVvs8blj7id3NT2Ag=",
       "url": "favicon.png"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "hash": "sha256-tflPDATF0pAskb2BeRIjCKBEhlKIKRuOYKmH5yAFINY=",
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
+      "hash": "sha256-jEkksZHpky9BGYSiBUbFpJDXQuyKh6P1Hq/J3oP/jHc=",
       "url": "icon-512.png"
     },
     {
@@ -390,10 +390,6 @@ self.assetsManifest = {
       "url": "js/device-detect.js"
     },
     {
-      "hash": "sha256-oPllSJUrlAw0o+c5tl1kGxUo9OL0HLAvZjAwkiHQesM=",
-      "url": "json/menu.json"
-    },
-    {
       "hash": "sha256-+0U3ZhvymKBU+keOnkBZEUnUwH71/AbTsLDBQ0HpCA8=",
       "url": "manifest.webmanifest"
     },
@@ -407,11 +403,11 @@ self.assetsManifest = {
     },
     {
       "hash": "sha256-hEdm0MX/I2yVozyU7Eah4azp4vlJvxZdgnaxgvdtyAg=",
-      "url": "md/aws/Security/IAM Role Anywhere.md"
+      "url": "md/aws/Security/iam-role-anywhere.md"
     },
     {
       "hash": "sha256-ofKMpava2wPSMkhtml5vk61dpNguI7B2RcncuPWeasw=",
-      "url": "md/aws/analytics/Athena.md"
+      "url": "md/aws/analytics/athena.md"
     },
     {
       "hash": "sha256-yXMPo2IolgYoKWjTLnccfpFOy5ZmyU3beQE+qKe8Ghw=",
@@ -419,10 +415,10 @@ self.assetsManifest = {
     },
     {
       "hash": "sha256-lk5lbvRvp9h2dfX007krbgoTpy8nhk4kl0WNcf5Vf8Q=",
-      "url": "md/aws/app-integration/SQS.md"
+      "url": "md/aws/app-integration/sqs.md"
     },
     {
-      "hash": "sha256-oPllSJUrlAw0o+c5tl1kGxUo9OL0HLAvZjAwkiHQesM=",
+      "hash": "sha256-yUYtSFqJ/52GAUCBW09RayAV7B9TsDNLNA6tGxrlSXg=",
       "url": "md/menu.json"
     },
     {
