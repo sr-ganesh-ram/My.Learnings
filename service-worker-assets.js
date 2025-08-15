@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "1j5oODSc",
+  "version": "w0bMDlwQ",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -334,7 +334,7 @@ self.assetsManifest = {
       "url": "_icon/Arch_Analytics/64/Arch_Amazon-Redshift_64.svg"
     },
     {
-      "hash": "sha256-ohG+TTWDlcGHsqnkMtbiqXg5b8iyPXO3eBaXgdJNdcY=",
+      "hash": "sha256-2ptw30X3oBYE1YY8+VLf2oFOZjKcPR0l9KEQs3Al7PM=",
       "url": "appsettings.json"
     },
     {
