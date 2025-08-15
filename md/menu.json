@@ -11,9 +11,9 @@
           "Url": "aws/analytics",
           "Children": [
             {
-              "Title": "Athena",
+              "Title": "Aws Athena",
               "Icon": "material-symbols-outlined/trail_length_medium",
-              "Url": "aws/analytics/athena",
+              "Url": "aws/analytics/aws-athena",
               "Children": []
             },
             {

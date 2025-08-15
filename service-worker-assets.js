@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "w0bMDlwQ",
+  "version": "D0vpF2fd",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -334,7 +334,7 @@ self.assetsManifest = {
       "url": "_icon/Arch_Analytics/64/Arch_Amazon-Redshift_64.svg"
     },
     {
-      "hash": "sha256-2ptw30X3oBYE1YY8+VLf2oFOZjKcPR0l9KEQs3Al7PM=",
+      "hash": "sha256-0oXGeOB12U1WGyaDqbPoqvtHVUyLeLWNuQh+XxxWCNE=",
       "url": "appsettings.json"
     },
     {
@@ -394,20 +394,12 @@ self.assetsManifest = {
       "url": "manifest.webmanifest"
     },
     {
-      "hash": "sha256-+bLRSKpCncicS86IEUEQ49Hul/dDBH7Ak4Tgue5DQv4=",
-      "url": "md/Arch_Amazon-Athena_64@5x.png"
-    },
-    {
-      "hash": "sha256-+T2JX1bTS3xn+JmJrAUVhIWLv2wGDyggVrVeLN6RpWE=",
-      "url": "md/Athena.md"
-    },
-    {
       "hash": "sha256-hEdm0MX/I2yVozyU7Eah4azp4vlJvxZdgnaxgvdtyAg=",
       "url": "md/aws/Security/iam-role-anywhere.md"
     },
     {
       "hash": "sha256-ofKMpava2wPSMkhtml5vk61dpNguI7B2RcncuPWeasw=",
-      "url": "md/aws/analytics/athena.md"
+      "url": "md/aws/analytics/aws-athena.md"
     },
     {
       "hash": "sha256-yXMPo2IolgYoKWjTLnccfpFOy5ZmyU3beQE+qKe8Ghw=",
@@ -418,7 +410,7 @@ self.assetsManifest = {
       "url": "md/aws/app-integration/sqs.md"
     },
     {
-      "hash": "sha256-yUYtSFqJ/52GAUCBW09RayAV7B9TsDNLNA6tGxrlSXg=",
+      "hash": "sha256-q2C+LWXidgUmCOX1x2O6MJhwmSIcCS6Aner9GlwHWN4=",
       "url": "md/menu.json"
     },
     {
