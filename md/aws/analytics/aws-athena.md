@@ -1,7 +1,7 @@
 
 # Athena
 
-![Athena](../_icon/arch_analytics/64/Arch_Amazon-Athena_64.svg)
+![Athena](../_icon/Arch_Analytics/64/Arch_Amazon-Athena_64.svg)
 
 ### 1\. Overview
 
