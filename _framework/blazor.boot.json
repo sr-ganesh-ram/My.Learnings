@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MyLearnings",
   "resources": {
-    "hash": "sha256-3vUeN/uxDV2kqEHuraVgwzXldRjkecN5tOqSh1/3m/o=",
+    "hash": "sha256-m5/ZkLk5RemQbHntwjY3GgZx5b31ePEmnKhXMeiNY2U=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -19,7 +19,7 @@
     "coreAssembly": {},
     "assembly": {
       "Markdig.wasm": "sha256-ti9e+dRTyajO3VJ91tYkaNE8yjQ+SP+J0iAha3mhhBs=",
-      "Microsoft.AspNetCore.Components.wasm": "sha256-Vc3pOWcw4TgJklWqry+K9RIfk/LKrsuhS5auhZQ0dKc=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-rdRkkIYJxO1qE+1W6cLtx+Iu6eYI2cpzyGJi9pj2VBg=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-2wt9Hn3xps0w1eO7BUZkq5ojp2s+ovK2KiGgfnWxP4A=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-x6VrqACG0WqhQUA7wagb8VFR0qsHcwhJ+GGT9l8fdBQ=",
       "Microsoft.Extensions.Configuration.wasm": "sha256-s/yxDiLBBZ326e3Y65TaWWECTuGEZtnMYUyjkitR5Nc=",
@@ -60,12 +60,12 @@
       "System.Private.Uri.wasm": "sha256-kb/ux9tcIG72jTuE2NbIPLNbN+al6Tbmo7v0WwznJJI=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-4d2+YgruXn+GJZiUeXhAqmE/1/CFONGD97IJa0G9US4=",
       "System.Runtime.InteropServices.wasm": "sha256-Kt8GwlhuJqoUE0vbgtfRXd6fvNe+rFogHnpXgMUYWqs=",
-      "System.Runtime.wasm": "sha256-NEENqjWMFrtO+tnM+Zx4G9StBAZBSJdr3NxvTNwZr+o=",
+      "System.Runtime.wasm": "sha256-lvTdGGBdb+DZaawZwcuqXVA+CC8l4+xIWk27I1M218g=",
       "System.Text.RegularExpressions.wasm": "sha256-+mgjwjahZbW2WU1MpeRbAffdz3b0cLIUpbWTlKc8X1Q=",
       "System.Threading.wasm": "sha256-KUweU2W7U0hjBOjawpkz5OJQAtuGtSTj58c8vU0JJ94=",
       "System.wasm": "sha256-mIkE9YHjFpU8ynNB+8tZJdDhxHHzFsaMwGalQK6CKsk=",
-      "System.Private.CoreLib.wasm": "sha256-W2u4BS4RoMXaR+lf4qPyK0AY8C7eyATvoEHAB+s/za0=",
-      "MyLearnings.wasm": "sha256-aGyjaF0JWAtcYnhP505OByYwjbGt4JF0PFMXCP7ipGE="
+      "System.Private.CoreLib.wasm": "sha256-2N3j0VU1zL2nDWp+HZzbSgyyF7o47rnaaPKliRn9t9U=",
+      "MyLearnings.wasm": "sha256-+Pbb+oP+fhcEvod2mcZixtmCRWNoJGOohcWIdLLzLWo="
     }
   },
   "cacheBootResources": true,

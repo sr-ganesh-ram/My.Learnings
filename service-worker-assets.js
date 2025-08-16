@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "CybjC+ZE",
+  "version": "boCjTuXw",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -30,7 +30,7 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-Vc3pOWcw4TgJklWqry+K9RIfk/LKrsuhS5auhZQ0dKc=",
+      "hash": "sha256-rdRkkIYJxO1qE+1W6cLtx+Iu6eYI2cpzyGJi9pj2VBg=",
       "url": "_framework/Microsoft.AspNetCore.Components.wasm"
     },
     {
@@ -98,7 +98,7 @@ self.assetsManifest = {
       "url": "_framework/MudBlazor.wasm"
     },
     {
-      "hash": "sha256-aGyjaF0JWAtcYnhP505OByYwjbGt4JF0PFMXCP7ipGE=",
+      "hash": "sha256-+Pbb+oP+fhcEvod2mcZixtmCRWNoJGOohcWIdLLzLWo=",
       "url": "_framework/MyLearnings.wasm"
     },
     {
@@ -170,7 +170,7 @@ self.assetsManifest = {
       "url": "_framework/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-W2u4BS4RoMXaR+lf4qPyK0AY8C7eyATvoEHAB+s/za0=",
+      "hash": "sha256-2N3j0VU1zL2nDWp+HZzbSgyyF7o47rnaaPKliRn9t9U=",
       "url": "_framework/System.Private.CoreLib.wasm"
     },
     {
@@ -186,7 +186,7 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.wasm"
     },
     {
-      "hash": "sha256-NEENqjWMFrtO+tnM+Zx4G9StBAZBSJdr3NxvTNwZr+o=",
+      "hash": "sha256-lvTdGGBdb+DZaawZwcuqXVA+CC8l4+xIWk27I1M218g=",
       "url": "_framework/System.Runtime.wasm"
     },
     {
@@ -210,7 +210,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-TR4b7HZRwUf1r9MCQXYcJ3WWc1rIkgvZFrPqIUpPL88=",
+      "hash": "sha256-TFPLwX/G4wyOJPFX8OY9mbZIx6frL5mk66OtObEX7sU=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -334,6 +334,438 @@ self.assetsManifest = {
       "url": "_icon/Arch_Analytics/64/Arch_Amazon-Redshift_64.svg"
     },
     {
+      "hash": "sha256-UavIsHzfe2QgHeh4HweKbvQkq3Clx3w7Wwa9aWfVSds=",
+      "url": "_icon/Arch_App-Integration/64/Arch_AWS-AppSync_64.png"
+    },
+    {
+      "hash": "sha256-83MZlT1+w+oQw75VQPPHtIT7ODpflX1sd0b4QHdEw5U=",
+      "url": "_icon/Arch_App-Integration/64/Arch_AWS-AppSync_64.svg"
+    },
+    {
+      "hash": "sha256-GLGJvRvxmM124RWvM/qNaKpI0fw81Ih+Jaygb2RV/7U=",
+      "url": "_icon/Arch_App-Integration/64/Arch_AWS-AppSync_64@5x.png"
+    },
+    {
+      "hash": "sha256-vWKKqxRU1UVFxpqenxXdI9ZTAlowN2fovKiXW5ynNqg=",
+      "url": "_icon/Arch_App-Integration/64/Arch_AWS-B2B-Data-Interchange_64.png"
+    },
+    {
+      "hash": "sha256-rgo2Y4Y2CpUNU8jnk/dSg5zNm6+IfoPVaLbzPGK/6hA=",
+      "url": "_icon/Arch_App-Integration/64/Arch_AWS-B2B-Data-Interchange_64.svg"
+    },
+    {
+      "hash": "sha256-HA/ppSNMb2G9qlQQFzdIlYOO2drxH7W77hGYnZ+uoS4=",
+      "url": "_icon/Arch_App-Integration/64/Arch_AWS-B2B-Data-Interchange_64@5x.png"
+    },
+    {
+      "hash": "sha256-QxEJPsxX4upML8okqegpEoS1Jxi9VgkZlSj6JLCUeWk=",
+      "url": "_icon/Arch_App-Integration/64/Arch_AWS-Express-Workflows_64.png"
+    },
+    {
+      "hash": "sha256-j0A0KYhVr2rY40CI0WS6D3ve68KYCf4YSWZURCxeOk4=",
+      "url": "_icon/Arch_App-Integration/64/Arch_AWS-Express-Workflows_64.svg"
+    },
+    {
+      "hash": "sha256-+Jn2BNDvY69IAtS4chSr2LavNRJzBjQpE5FsmISeEZs=",
+      "url": "_icon/Arch_App-Integration/64/Arch_AWS-Express-Workflows_64@5x.png"
+    },
+    {
+      "hash": "sha256-cCn/NdIX509mRnScQvshRNguZDlBxls356F00tWnb+E=",
+      "url": "_icon/Arch_App-Integration/64/Arch_AWS-Step-Functions_64.png"
+    },
+    {
+      "hash": "sha256-GdprLvV986RBsSKzPe9xO5cV6V90tQM9mOgWKbq+e6U=",
+      "url": "_icon/Arch_App-Integration/64/Arch_AWS-Step-Functions_64.svg"
+    },
+    {
+      "hash": "sha256-lUthvORJhuo0bwINMbVDL3Ilo7JZ+zIEYZVYMSdjTpU=",
+      "url": "_icon/Arch_App-Integration/64/Arch_AWS-Step-Functions_64@5x.png"
+    },
+    {
+      "hash": "sha256-jMeYFYjUptlPphDuuG6ydPgau2e7N4vusKYORLjAn0o=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-AppFlow_64.png"
+    },
+    {
+      "hash": "sha256-+pspxT4RSG4OIyzfJ0GNbON2UaiNIi7bYErJLtnyLKQ=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-AppFlow_64.svg"
+    },
+    {
+      "hash": "sha256-HFXppMweuKrMS/GQtOOr9Wiq/YONain7jcWPXiaQPa8=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-AppFlow_64@5x.png"
+    },
+    {
+      "hash": "sha256-eX5bXRCF4RoXd6F/XbPym+ZPyMi4OgPrnFA4JazD/OM=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-EventBridge_64.png"
+    },
+    {
+      "hash": "sha256-fo7tbz0naSxqu/orBAlXYLcnuiOjfVQSnvNTDAAamh0=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-EventBridge_64.svg"
+    },
+    {
+      "hash": "sha256-yv2w+HNkuUQae/xN1y8sRTMHI+goK/Lr5jKQSwBNJsA=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-EventBridge_64@5x.png"
+    },
+    {
+      "hash": "sha256-Zw+xx0Q3sjOSu1Cya4cbkDCdWjxCi1hXmQ4gzbi62No=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-MQ_64.png"
+    },
+    {
+      "hash": "sha256-elbLoxgX9J6UDT/uTmzgg1qbMoK3jbsC25orGaN6MtU=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-MQ_64.svg"
+    },
+    {
+      "hash": "sha256-m+qCa+GdWTTUVtiZq1sc4WSDSO+k0DWfkV/YW6NHjxo=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-MQ_64@5x.png"
+    },
+    {
+      "hash": "sha256-jg95uZGT/GqMRmnE1SSb9aVUCzORPQGS/OxXr4FPWdo=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-Managed-Workflows-for-Apache-Airflow_64.png"
+    },
+    {
+      "hash": "sha256-HIKEH0ykVFWxdnl5XX15tzPYWb/15izZWEo/Z4IV4g8=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-Managed-Workflows-for-Apache-Airflow_64.svg"
+    },
+    {
+      "hash": "sha256-ZQWo3gUKbRVxd/aKlFrTLP7f964vxzE0WyD8l1F0Kh8=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-Managed-Workflows-for-Apache-Airflow_64@5x.png"
+    },
+    {
+      "hash": "sha256-8FwkkokeUmsc47DSwIrk8HjqNVIYvcBXELAMcjMWn+4=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-Simple-Notification-Service_64.png"
+    },
+    {
+      "hash": "sha256-8Hgc1XF03S3f4tIDNWbHP1wL+BkmEO7FGU56d1YYff4=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-Simple-Notification-Service_64.svg"
+    },
+    {
+      "hash": "sha256-xBB/pa9LLxbekiXXRxw24/CjaGuwL2jl87mD4P6JmFk=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-Simple-Notification-Service_64@5x.png"
+    },
+    {
+      "hash": "sha256-5uy7yjGU5mRPHTda54vAu2EfjZB9C0BeUP1Fu9P7gic=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-Simple-Queue-Service_64.png"
+    },
+    {
+      "hash": "sha256-u6slRdzLouEa/3TkLH+AeKkFGxSxYRTlOdocSwm9vc0=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-Simple-Queue-Service_64.svg"
+    },
+    {
+      "hash": "sha256-0bkya24/Tbe34/S20vP62+LsQH7nN22BHA0l1LjtheI=",
+      "url": "_icon/Arch_App-Integration/64/Arch_Amazon-Simple-Queue-Service_64@5x.png"
+    },
+    {
+      "hash": "sha256-92IyzieBOsI2tujr80ZCjDVude7VOOgjeMhNvA3O2nc=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Artifact_64.png"
+    },
+    {
+      "hash": "sha256-cskikc9PzVsnXL1asZkYfOb0zbaxSXM7R0RBg17JBnk=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Artifact_64.svg"
+    },
+    {
+      "hash": "sha256-fylT7FpQbgmqDXblIwt0hWY9v2pvQOmNg2jIIod4ux0=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Artifact_64@5x.png"
+    },
+    {
+      "hash": "sha256-B36S98ZT2DgC/8B0RXUSGdqHfnD8q2qi+Aa9zwFpS3k=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Audit-Manager_64.png"
+    },
+    {
+      "hash": "sha256-NfrKis2ErpG1H4I/4B7xh1V/mqRwEjmJvi5mO59uOVQ=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Audit-Manager_64.svg"
+    },
+    {
+      "hash": "sha256-ex90vYASjfZIEpoGr9AxiEgmnJ4ytcCUfRDXGkEpkWw=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Audit-Manager_64@5x.png"
+    },
+    {
+      "hash": "sha256-AXjztyZyvdMKy4UttTDs22YEh/VMPKUMsTyz1FekzjM=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Certificate-Manager_64.png"
+    },
+    {
+      "hash": "sha256-7Hxd+ep3AVKIrcwst8hDlcBDYcOw5fBcaNqZ4Q5sVNo=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Certificate-Manager_64.svg"
+    },
+    {
+      "hash": "sha256-hd9m3+Oq6tDNSluOKzlgoCFADDao5xfGU5annYxYAT0=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Certificate-Manager_64@5x.png"
+    },
+    {
+      "hash": "sha256-Ob/3mr25+nNDieDh61WBBsLZ5gHOTtq2PCxLFx2mKM8=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-CloudHSM_64.png"
+    },
+    {
+      "hash": "sha256-2ewNweED/PVTfh+A1W3kHaS+5AFhwawuqfq2J78EXZE=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-CloudHSM_64.svg"
+    },
+    {
+      "hash": "sha256-zxUWMgSaJc/FjVgPvNvPI4h5/N8l3Bg8fMQ/D0xyMuM=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-CloudHSM_64@5x.png"
+    },
+    {
+      "hash": "sha256-YOmUK3Qw/XZGN8QbWLA8GRklKqcYpKXwoWVmmStvRIo=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Directory-Service_64.png"
+    },
+    {
+      "hash": "sha256-13MUhddBCqsIm9hV8BoGkSx+BZpaS3y/6zgSxcdHdFM=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Directory-Service_64.svg"
+    },
+    {
+      "hash": "sha256-zNiuO3xcMd4ZrQMX7coPkmPoZ3Lu8cWLDPx2ctAnlz4=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Directory-Service_64@5x.png"
+    },
+    {
+      "hash": "sha256-JSqvsF3k51c2BXbAUxMq0880L4Um7SGEVc83ZM/jhSo=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Firewall-Manager_64.png"
+    },
+    {
+      "hash": "sha256-HrweKdtjhC89IV6zOrsdMvxR3KOl46ZCGSp04OISLbE=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Firewall-Manager_64.svg"
+    },
+    {
+      "hash": "sha256-hs4D+6tARIhz9oQoE3UKtyql0+pUbEcwKjaIgFDRqgg=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Firewall-Manager_64@5x.png"
+    },
+    {
+      "hash": "sha256-CMI5PxnlUEkFYYElL/rMlKT+kWuunjanhNCxnjo6rq8=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-IAM-Identity-Center_64.png"
+    },
+    {
+      "hash": "sha256-4WKHIY3HF/zRX+nLPt0PtN8SI7AfN7e9tZGvW8RQRjg=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-IAM-Identity-Center_64.svg"
+    },
+    {
+      "hash": "sha256-ByCPAwQECCp9nG7ZK0zmCGfJFRlkT248IbGWKPd4E+U=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-IAM-Identity-Center_64@5x.png"
+    },
+    {
+      "hash": "sha256-rltLuMdWEY76/lzTJ26NT0ladzv5GXcBQ7aCB9EyfR4=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Identity-and-Access-Management_64.png"
+    },
+    {
+      "hash": "sha256-MTV5NVfAZdBIGjmFzMBXSzYnjVai4sXVkQfQ0o9RuCc=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Identity-and-Access-Management_64.svg"
+    },
+    {
+      "hash": "sha256-NQY8m5BLIuOffsN+dXtRA4wzFsLPsD+9Ou4cP4tqzlI=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Identity-and-Access-Management_64@5x.png"
+    },
+    {
+      "hash": "sha256-v8uG8AYn93unR04pCdyTp4FCYtvUKun43gD1Gen19wI=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Key-Management-Service_64.png"
+    },
+    {
+      "hash": "sha256-Wz7SmK44Bwf3fKIcL0F9Cno25w5Zv+ml2PKBuER651A=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Key-Management-Service_64.svg"
+    },
+    {
+      "hash": "sha256-sqTw7Pzw2t0Kz6pUR0K4K+3uVswcLmWUs7JpPCe310I=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Key-Management-Service_64@5x.png"
+    },
+    {
+      "hash": "sha256-E9VSUv4tSs6MZStlmCtxUr307JfuLjNGOi/CkVj0398=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Network-Firewall_64.png"
+    },
+    {
+      "hash": "sha256-kWV03koqDCBtsvFhMhJHD//+bbxdNkVeUT+eEbAmj1M=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Network-Firewall_64.svg"
+    },
+    {
+      "hash": "sha256-yvrQkFARaf1JvjkYVW9IpJmdbsVwbN2qz3DKtuVK8dM=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Network-Firewall_64@5x.png"
+    },
+    {
+      "hash": "sha256-iaKBX9WodJzYQY/+A8g3EjLWj0Q/q+xMMPz3zyPC5Ns=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Payment-Cryptography_64.png"
+    },
+    {
+      "hash": "sha256-jkED0WXR8x2Qr7DU4X3Pz8pbXjGmBK+fMEvpUqPYV+c=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Payment-Cryptography_64.svg"
+    },
+    {
+      "hash": "sha256-UiWtoeVGVXfgVKQWruEgLttMV52wDkCOo8Hr96Dc00E=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Payment-Cryptography_64@5x.png"
+    },
+    {
+      "hash": "sha256-SlhKFhnrGSDCbBVf1MM+OPiXqG1rsGExQq0S4f+E2ZM=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Private-Certificate-Authority_64.png"
+    },
+    {
+      "hash": "sha256-h3cevU/YFDQUOncG/Ogtroa8zVG0+JhCXjPZWaSFLpI=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Private-Certificate-Authority_64.svg"
+    },
+    {
+      "hash": "sha256-Ar+u1DlJY8ZSdo5V7O+xcOqugqZocXukVOJ397iw8tM=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Private-Certificate-Authority_64@5x.png"
+    },
+    {
+      "hash": "sha256-DYiKcLJUZN9xRlZGQIL24wnA4RLNnNBCu0jKbMgRMo8=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Resource-Access-Manager_64.png"
+    },
+    {
+      "hash": "sha256-DzbXNWattZF/OF5eiBjRlvGC67hoiEpuZ2svvJArq2I=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Resource-Access-Manager_64.svg"
+    },
+    {
+      "hash": "sha256-PB510NLzmW8EWb9PirbDqAv0pz6YQdkwAVbStHxpXas=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Resource-Access-Manager_64@5x.png"
+    },
+    {
+      "hash": "sha256-DgWftfO/ICKSasVH3LCdmWAs6FMvgoyvOGumstPJmvA=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Secrets-Manager_64.png"
+    },
+    {
+      "hash": "sha256-w5Qbdf4K0RgWlsHbvV+dH+RWGHnhlbHmi7bcNamdprM=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Secrets-Manager_64.svg"
+    },
+    {
+      "hash": "sha256-rxdtw3fbs8gCBRcQjlUXwK2hbrzv7y9K43azQJX1RQk=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Secrets-Manager_64@5x.png"
+    },
+    {
+      "hash": "sha256-pOwCrbsnSsTVZ0gMH2smZcRDj1/OgPG3WsMaQ867orE=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Security-Hub_64.png"
+    },
+    {
+      "hash": "sha256-hZoQwQy89S4huqG3uY+LUP1GfDYW7Gc/U6Jl+j342OU=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Security-Hub_64.svg"
+    },
+    {
+      "hash": "sha256-HFKBkneTx9ZzjY5EQcdcHCKUjKnEpFWNKlq6/gGJb5A=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Security-Hub_64@5x.png"
+    },
+    {
+      "hash": "sha256-fKeG9RlQiNB2nVajR2Zt7YkaZn/gMj9venhpuSpSN3U=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Shield_64.png"
+    },
+    {
+      "hash": "sha256-UpQbx88MXscG5/0bR9Jk6UfotYD04jOK7yF1W/7J1sA=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Shield_64.svg"
+    },
+    {
+      "hash": "sha256-QcUu/fU5kpTVZ800KmyxLsy+OUytlIluR0D0mI47p9Q=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Shield_64@5x.png"
+    },
+    {
+      "hash": "sha256-VomgBvKmEm7a8/Bf4m7ulcoyjlqVcM1ub8r6LUhMfoI=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Signer_64.png"
+    },
+    {
+      "hash": "sha256-A+YiGQ78Hsk+/RrOz+W/+/hTgEmlcbmEqoqwko3BeNM=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Signer_64.svg"
+    },
+    {
+      "hash": "sha256-048QMZMLcQPvlqRBkQSIgpj2HpYAQJLpieJ5aRgJgIw=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-Signer_64@5x.png"
+    },
+    {
+      "hash": "sha256-4a+tPXuaV3IuxX7vdHLhbwXYP/0XK3gjxNSSTKiOLis=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-WAF_64.png"
+    },
+    {
+      "hash": "sha256-O/p6WvOOVQNGsYKL6tHNOjVDb6GeG/gvbPajZiUM9lo=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-WAF_64.svg"
+    },
+    {
+      "hash": "sha256-2G2zbGe9h4ger6G2ZtneJNWhp9fahH6YRpj+dv0P/L4=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_AWS-WAF_64@5x.png"
+    },
+    {
+      "hash": "sha256-67VO6IUMs8q8zjKOIBLHT4JEvPA58/srEdmbkRMuXCI=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Cloud-Directory_64.png"
+    },
+    {
+      "hash": "sha256-emxPuJLgty4fxPPq7+F2QsRVJQEBvlkfSXXwWYEOFE4=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Cloud-Directory_64.svg"
+    },
+    {
+      "hash": "sha256-iQmghbVBasBIACDcPOuvECyM+s5yxAJbW1eKG01P0OE=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Cloud-Directory_64@5x.png"
+    },
+    {
+      "hash": "sha256-F43VabxFI0SFZx3AsZdDEKd2FTyUGjNnhQkxOfMnfsU=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Cognito_64.png"
+    },
+    {
+      "hash": "sha256-z5xVuqMl1dB66gBUEVsbJNaMHX4Eak+KNgzN77ulB+k=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Cognito_64.svg"
+    },
+    {
+      "hash": "sha256-cCqCZMm7gRhDGOmdn+ckaGuXWNbKbNt517BNcp2UUgg=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Cognito_64@5x.png"
+    },
+    {
+      "hash": "sha256-gmcALPUph+VIYTL3LAQjy1gSyYpT7wskx9k4Jee07H8=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Detective_64.png"
+    },
+    {
+      "hash": "sha256-pg3xOvoq7gH1mXk++JU4t5hMkoqPsv9XGGDBQLx6kq8=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Detective_64.svg"
+    },
+    {
+      "hash": "sha256-RiQDS6QCnWPHhvjR/LKZo7M/CfjlYg8KHxPderVVzSQ=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Detective_64@5x.png"
+    },
+    {
+      "hash": "sha256-60iHicNIA7ZezuxBdcIG95swKauGrISaIpW99zcmyjI=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-GuardDuty_64.png"
+    },
+    {
+      "hash": "sha256-8zb3gdMvuQ9V/tulUhxzk+XytgfMp57xpsVtupqxRqA=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-GuardDuty_64.svg"
+    },
+    {
+      "hash": "sha256-ro45lQdqtN1T0b/tDYwRci1GaiK1MuhPmKFbW27bMWo=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-GuardDuty_64@5x.png"
+    },
+    {
+      "hash": "sha256-t9gmU0zlSxiUoMITX116bBqaoU6CeXpSgH5KIr/OHE8=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Inspector_64.png"
+    },
+    {
+      "hash": "sha256-xDfZHkiDMjtSCLFZhJmEkBX60D5Pl/pP48WwXJ+7qiI=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Inspector_64.svg"
+    },
+    {
+      "hash": "sha256-4+dFOs1o+ThDzap6zpMK9/Qz8b+eKwg6nFOed5/dtbo=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Inspector_64@5x.png"
+    },
+    {
+      "hash": "sha256-6uxhBtTtDAgaXvLnPG95dc33A/c5jRddYdRLSNO+0Wg=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Macie_64.png"
+    },
+    {
+      "hash": "sha256-sDXHQulEzPmzhzPL+jiKyHFl3GyZcAk1cKbbZVNOpco=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Macie_64.svg"
+    },
+    {
+      "hash": "sha256-8sLRwW3Ru0UDCqh9ghqGT4c8uc9y9qX18iZSn8Gm/uw=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Macie_64@5x.png"
+    },
+    {
+      "hash": "sha256-H+NUIYvRoio1/94ZIdXI4OELEiWE2pQhBDfTsmffrC8=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Security-Lake_64.png"
+    },
+    {
+      "hash": "sha256-R+HoGYA9+GTlFDzGf/zMUuwS5Qu7oztr74ZdcQMTXsc=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Security-Lake_64.svg"
+    },
+    {
+      "hash": "sha256-bp39WCj+4xT/a2SywJQEcNbHN89qLetSH3sPHGtq1TM=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Security-Lake_64@5x.png"
+    },
+    {
+      "hash": "sha256-+y69tEIv445EBDEAOo5cjjrxc81ZPpVAlTztNT/HFkA=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Verified-Permissions_64.png"
+    },
+    {
+      "hash": "sha256-xj6+uuc9Rr+P+cWp4xkJAVRw7EibqOGrLa49zTmSVdo=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Verified-Permissions_64.svg"
+    },
+    {
+      "hash": "sha256-pY1xTzPgnBHbrwiBlxsUerAupKD6KPVs7raJBw7cEEk=",
+      "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Verified-Permissions_64@5x.png"
+    },
+    {
       "hash": "sha256-HzsqKdINjCTYrEPUtVaxTjXfz36ajLsYpdEYwykCOTw=",
       "url": "appsettings.json"
     },
@@ -366,7 +798,7 @@ self.assetsManifest = {
       "url": "img/logo.png"
     },
     {
-      "hash": "sha256-6lDjITGXC6Fgi9/VqE3TFBrO1Jh9+PQTP8kZrIBOyTM=",
+      "hash": "sha256-8qRlbb6Y4/2fhqNUGL22JtNex7VRvyPxDenU4bUl1Bw=",
       "url": "index.html"
     },
     {
@@ -382,7 +814,7 @@ self.assetsManifest = {
       "url": "manifest.webmanifest"
     },
     {
-      "hash": "sha256-hEdm0MX/I2yVozyU7Eah4azp4vlJvxZdgnaxgvdtyAg=",
+      "hash": "sha256-kmiGnFD4tJPx9Caz1Q/LJh+ZZrnAcRDW2bRpGvqEUJY=",
       "url": "md/aws/-security/iam-role-anywhere.md"
     },
     {
@@ -390,20 +822,16 @@ self.assetsManifest = {
       "url": "md/aws/analytics/aws-athena.md"
     },
     {
-      "hash": "sha256-yXMPo2IolgYoKWjTLnccfpFOy5ZmyU3beQE+qKe8Ghw=",
+      "hash": "sha256-3RiyJMZ+252lB5U4fyncWLbbUcNCDOAVz7TJBLNmvXI=",
       "url": "md/aws/analytics/kinesis.md"
     },
     {
-      "hash": "sha256-lk5lbvRvp9h2dfX007krbgoTpy8nhk4kl0WNcf5Vf8Q=",
+      "hash": "sha256-yfaME1ubIEVwYjxsH3pwCcTK9usWIFDBbvAy8+Ep8/Y=",
       "url": "md/aws/app-integration/sqs.md"
     },
     {
       "hash": "sha256-ZbLlyVNIeIyjP6BpiWUOb3FEfxU4IChY42Y1QJuL1Uo=",
       "url": "md/menu.json"
-    },
-    {
-      "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ/A6aYYSQjZfVn2cU=",
-      "url": "sample-data/weather.json"
     }
   ]
 };

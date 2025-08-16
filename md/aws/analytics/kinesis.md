@@ -1,5 +1,7 @@
 # 🛠️ Amazon Kinesis 
 
+![Kinesis](../_icon/arch_analytics/64/Arch_Amazon-Kinesis_64.svg)
+
 ## Title: Real-Time Data Streaming with Amazon Kinesis Data Streams
 
 ## Problem Statement & Business Use Cases

@@ -1,3 +1,5 @@
+![SQS](../_icon/Arch_App-Integration/64/Arch_Amazon-Simple-Queue-Service_64.svg)
+
 # 📈 Aws SQS
 
 
