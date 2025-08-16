@@ -27,7 +27,7 @@
         SetBaseScript();
     </script>
 
-    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+    
     <link rel="stylesheet" href="css/app.css" />
 
     <link rel="stylesheet" href="css/md.css" />
@@ -67,70 +67,62 @@
         <a href="" class="reload">Reload</a>
         <a class="dismiss">🗙</a>
     </div>
+    <!-- Reference your JavaScript file from the Razor Class Library here -->
+    <script src="js/device-detect.js" type="text/javascript" defer ></script>
+
     <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
 
     <!-- Important: Increment the version parameter whenever you update MudBlazor to prevent caching issues -->
     <script src="_content/MudBlazor/MudBlazor.min.js?v=1"></script>
 
+
+    <script>
+        // Use a flag to ensure initialization only happens once
+        let mermaidInitialized = false;
+
+        // Function to initialize Mermaid
+        // This should be called before you try to render any diagram.
+        window.setupMermaid = function () {
+            try {
+                if (!mermaidInitialized) {
+                    mermaid.initialize({
+                        startOnLoad: false,
+                        theme: 'dark'
+                    });
+                    mermaidInitialized = true;
+                    console.log("Mermaid library has been initialized.");
+                }
+            }
+            catch { }
+        };
+
+        // Function to render the diagrams
+        // This is the function your Blazor app should call.
+        window.renderMermaid = function () {
+            try {
+                // First, make sure the library is initialized.
+                window.setupMermaid();
+                // Then, manually run the mermaid renderer on all matching elements.
+                mermaid.run();
+                console.log("Mermaid diagrams have been rendered.");
+            }
+            catch { }
+        };
+
+        // Initialize the library as soon as the script loads,
+        // so it's ready for your Blazor function call.
+        window.setupMermaid();
+    </script>
+
+    <script src="js/app.js" defer />
+
+
+
 </body>
 
-<!-- Reference your JavaScript file from the Razor Class Library here -->
-<script src="js/device-detect.js" type="text/javascript" defer />
-<script>
-    // Use a flag to ensure initialization only happens once
-    let mermaidInitialized = false;
-
-    // Function to initialize Mermaid
-    // This should be called before you try to render any diagram.
-    window.setupMermaid = function () {
-        try {
-            if (!mermaidInitialized) {
-                mermaid.initialize({
-                    startOnLoad: false,
-                    theme: 'dark'
-                });
-                mermaidInitialized = true;
-                console.log("Mermaid library has been initialized.");
-            }
-        }
-        catch { }
-    };
-
-    // Function to render the diagrams
-    // This is the function your Blazor app should call.
-    window.renderMermaid = function () {
-        try {
-            // First, make sure the library is initialized.
-            window.setupMermaid();
-            // Then, manually run the mermaid renderer on all matching elements.
-            mermaid.run();
-            console.log("Mermaid diagrams have been rendered.");
-        }
-        catch { }
-    };
-
-    // Initialize the library as soon as the script loads,
-    // so it's ready for your Blazor function call.
-    window.setupMermaid();
-</script>
-
-<script src="js/app.js" defer />
-
-<!-- Your existing JavaScript -->
-<script>
 
 
-    window.renderMermaid = function () {
-        try {
-            // Your existing Mermaid code
-            if (window.mermaid) {
-                mermaid.init();
-            }
-        }
-        catch {}
-    };
-</script>
 
 
 </html>

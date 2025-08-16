@@ -6,6 +6,19 @@
       "Url": "aws",
       "Children": [
         {
+          "Title": " Security",
+          "Icon": "material-symbols-outlined/security",
+          "Url": "aws/-security",
+          "Children": [
+            {
+              "Title": "Iam Role Anywhere",
+              "Icon": "material-symbols-outlined/trail_length_medium",
+              "Url": "aws/-security/iam-role-anywhere",
+              "Children": []
+            }
+          ]
+        },
+        {
           "Title": "Analytics",
           "Icon": "material-symbols-outlined/analytics",
           "Url": "aws/analytics",
@@ -33,19 +46,6 @@
               "Title": "Sqs",
               "Icon": "material-symbols-outlined/trail_length_medium",
               "Url": "aws/app-integration/sqs",
-              "Children": []
-            }
-          ]
-        },
-        {
-          "Title": "Security",
-          "Icon": "material-symbols-outlined/security",
-          "Url": "aws/security",
-          "Children": [
-            {
-              "Title": "Iam Role Anywhere",
-              "Icon": "material-symbols-outlined/trail_length_medium",
-              "Url": "aws/security/iam-role-anywhere",
               "Children": []
             }
           ]
