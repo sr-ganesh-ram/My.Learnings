@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "ulG/0GLE",
+  "version": "gCUX2066",
   "assets": [
     {
       "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -102,7 +102,7 @@ self.assetsManifest = {
       "url": "_framework/MudBlazor.wasm"
     },
     {
-      "hash": "sha256-Xic3gwH0uqKgv+JIeZYRPEiPNv3FW8ZDx2KedeLZaww=",
+      "hash": "sha256-/9pzk0DVWiWIt2nE7TTXvidVQQ39MOfxxtXTmapp6+0=",
       "url": "_framework/MyLearnings.wasm"
     },
     {
@@ -222,7 +222,7 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-iMfG7m5NX2kzXVeN70qxS/Tz2F6K83cglYg4tqOW/iM=",
+      "hash": "sha256-eR6hHfQ6u3GRgEPAfjinXl18ayAwvnNm7vj2G3Jf5cY=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -778,7 +778,7 @@ self.assetsManifest = {
       "url": "_icon/Arch_Security-Identity-Compliance/64/Arch_Amazon-Verified-Permissions_64@5x.png"
     },
     {
-      "hash": "sha256-6mpSjOK/+bMuIqhg844blBgjFXtRhiUYdaJrypPdXS4=",
+      "hash": "sha256-ugI3VYBiYmaJ/jU9JY55Pw3ecQutR3iCwRzR1+5aSmE=",
       "url": "appsettings.json"
     },
     {
